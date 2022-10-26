@@ -1,4 +1,4 @@
 #this is a comment
 *.js
 !app.js
-.txt
+dump.txt
