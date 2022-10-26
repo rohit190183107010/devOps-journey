@@ -2,3 +2,6 @@
 *.js
 !app.js
 dump.txt
+*.php
+f5.txt
+fone.txt
