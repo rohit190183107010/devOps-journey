@@ -1,2 +1,2 @@
-FILE 2 UPDATED FOR CONFLICT 
-FILE 2 uploaded
+File two not uploaded yet
+Its important
