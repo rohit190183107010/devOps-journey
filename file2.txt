@@ -1,2 +1,2 @@
-file 2 
-file 2 uploaded
+FILE 2 UPDATED FOR CONFLICT 
+FILE 2 uploaded
